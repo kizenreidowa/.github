@@ -1,5 +1,9 @@
 # A New Era of Mobility
 
+| Repository                               | Description                                                            | Version   | Tests  |
+|------------------------------------------|------------------------------------------------------------------------|-----------|--------|
+| [wa](https://github.com/kizenreidowa/wa) | manages all interactions, whether internal to the system or external.  | 0.0.0     | ko     |
+
 The primary goal of the Kizenreidowa project is to create a new generation of carbon-negative transportation methods (land, air, sea) by developing a regenerative engine that captures atmospheric CO2 for use in a closed loop. 
 
 The project aims to achieve mobility that enriches and regenerates the planet, contributing positively to ecological balance.
