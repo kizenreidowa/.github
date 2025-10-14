@@ -1,8 +1,10 @@
 # A New Era of Mobility
 
-| Repository                               | Description                                                            | Version   | Tests  | Discord                           |
-|------------------------------------------|------------------------------------------------------------------------|-----------|--------|-----------------------------------|
-| [wa](https://github.com/kizenreidowa/wa) | manages all interactions, whether internal to the system or external.  | 0.0.0     | ko     |[#wa](https://discord.gg/hTBD2RuX) |
+![Discord](https://img.shields.io/discord/1427777397041795094?logo=dicord)
+
+| discord                              | Objectives                                                     | Version                                                   | License                                               | Maintainer 
+|------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|--------------------------------------------|
+[#wa](https://discord.gg/hTBD2RuX) | manages all interactions, whether internal to the system or external.    | ![AUR Version](https://img.shields.io/aur/version/wa)       | ![AUR License](https://img.shields.io/aur/license/wa) |![AUR Maintainer](https://img.shields.io/aur/maintainer/wa) |  |
 
 The primary goal of the Kizenreidowa project is to create a new generation of carbon-negative transportation methods (land, air, sea) by developing a regenerative engine that captures atmospheric CO2 for use in a closed loop. 
 
