@@ -4,7 +4,11 @@
 
 | discord                              | Objectives                                                     | Version                                                   | License                                               | Maintainer 
 |------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|--------------------------------------------|
-[#wa](https://discord.gg/hTBD2RuX) | manages all interactions, whether internal to the system or external.    | ![AUR Version](https://img.shields.io/aur/version/wa)       | ![AUR License](https://img.shields.io/aur/license/wa) |![AUR Maintainer](https://img.shields.io/aur/maintainer/wa) |  |
+[#wa](https://discord.gg/7bJNKZ7mFX) | manages all interactions, whether internal to the system or external.    | ![AUR Version](https://img.shields.io/aur/version/wa)       | ![AUR License](https://img.shields.io/aur/license/wa) | ![AUR Maintainer](https://img.shields.io/aur/maintainer/wa) |
+| [#ki](https://discord.gg/2ZxQweZF)|  is the energetic heart of the system, acting as the engine of propulsion.| ![AUR Version](https://img.shields.io/aur/version/ki) | ![AUR License](https://img.shields.io/aur/license/ki) | ![AUR Maintainer](https://img.shields.io/aur/maintainer/ki) |
+| [#rei](https://discord.gg/pRqWp27f)|  is the intelligence dedicated to collecting, validating, and presenting all system data. | ![AUR Version](https://img.shields.io/aur/version/rei) | ![AUR License](https://img.shields.io/aur/license/rei) | ![AUR Maintainer](https://img.shields.io/aur/maintainer/rei) |
+| [#do](https://discord.gg/eJyU8aWe) | The aI responsible for the orientation and maintenance of the vehicle's trajectory. |  ![AUR Version](https://img.shields.io/aur/version/do) | ![AUR License](https://img.shields.io/aur/license/do) | ![AUR Maintainer](https://img.shields.io/aur/maintainer/do) |
+
 
 The primary goal of the Kizenreidowa project is to create a new generation of carbon-negative transportation methods (land, air, sea) by developing a regenerative engine that captures atmospheric CO2 for use in a closed loop. 
 
